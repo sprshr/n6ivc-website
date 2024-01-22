@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&display=swap');
+
+header.masthead{
+    min-height: 100dvh;
+    background: 
+    linear-gradient(166deg, rgba(240, 232, 232, 0.5742092457420924) 0%, rgba(26,22,16,1) 100%),
+    url(../assets/img/header-bg.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+}
+
+.navbar-brand{
+    font-family: 'Dancing Script', cursive;
+}
