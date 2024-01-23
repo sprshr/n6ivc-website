@@ -14,3 +14,12 @@ header.masthead{
 .navbar-brand{
     font-family: 'Dancing Script', cursive;
 }
+
+.navbar-brand img{
+    min-height: 60px;
+    margin-right: 0.4dvw;
+}
+
+.page-section{
+    padding: 4rem 0;
+}
